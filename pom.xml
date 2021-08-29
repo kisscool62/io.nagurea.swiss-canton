@@ -17,6 +17,7 @@
     <artifactId>swiss-canton</artifactId>
     <version>1.0</version>
     <url>https://github.com/kisscool62/io.nagurea.swiss-canton</url>
+    <name>${project.groupId}:${project.artifactId}</name>
 
     <licenses>
         <license>
