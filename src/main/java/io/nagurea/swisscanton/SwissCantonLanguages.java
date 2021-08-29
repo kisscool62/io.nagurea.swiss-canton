@@ -1,5 +1,8 @@
 package io.nagurea.swisscanton;
 
+/**
+ * Swiss official languages according to iso 639-1|2|3 and their name in the given language
+ */
 public enum SwissCantonLanguages {
     ROMANSH("rm", "roh", "roh", "Rumantsch grischun"),
     FRENCH("fr", "fre/fra", "fra", "Français"),
